@@ -1,4 +1,4 @@
-<img width="367" alt="image" src="https://github.com/NavyaVeeram/htmlproject5/assets/113278607/35fa6520-4894-4527-b86b-3023f26868bc"># htmlproject5
+# htmlproject5
 This the html file in advance
 home page
 <img width="955" alt="image" src="https://github.com/NavyaVeeram/htmlproject5/assets/113278607/58a404b1-a1d4-4943-a15e-6d02766e6ab2">
@@ -16,6 +16,6 @@ shop.html
 <img width="341" alt="image" src="https://github.com/NavyaVeeram/htmlproject5/assets/113278607/d6b773f1-cdb8-453f-8d0d-df0fe029d660">
 login
 <img width="343" alt="image" src="https://github.com/NavyaVeeram/htmlproject5/assets/113278607/db98a1bc-6e42-409f-a033-5ba7caceeaaa">
-![Uploading image.png… ]()
 
+<img width="367" alt="image" src="https://github.com/NavyaVeeram/htmlproject5/assets/113278607/35fa6520-4894-4527-b86b-3023f26868bc">
 this is only a static page
